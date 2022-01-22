@@ -1,0 +1,1 @@
+{"name":"Local: matrix_search","url":"e:\\CODE_PLAYGROUND\\C++\\2D Array\\Practice\\matrix_search.cpp","tests":[{"id":1631594256751,"input":"4 4\n10\n1 2 3 4\n5 6 7 8 \n9 10 11 12\n13 14 15 16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CODE_PLAYGROUND\\C++\\2D Array\\Practice\\matrix_search.cpp","group":"local","local":true}
